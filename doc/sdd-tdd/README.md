@@ -30,6 +30,16 @@
   - TDD 测试策略、自动化与人工评测、数据集设计、发布门禁。
 - `09-traceability-matrix.md`
   - 从研究结论到需求、设计、测试的可追踪矩阵。
+- `11-assessment-and-planning-tool-spec.md`
+  - 学情评估与个性化补习计划智能工具规格说明。
+- `12-assessment-and-planning-test-plan.md`
+  - 该工具的 TDD 测试方案、样例数据与验收标准。
+- `13-assessment-and-planning-backlog.md`
+  - 该工具的开发拆分、迭代顺序与 issue 级 backlog。
+- `14-implementation-status.md`
+  - 批次实现状态、功能覆盖、测试结果与已知限制。
+- `15-release-notes.md`
+  - 里程碑交付说明、变更摘要与建议下一步。
 
 ## 建议使用顺序
 
